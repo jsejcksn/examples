@@ -10,5 +10,5 @@ A simple web audio player
 ## [Exercise Metrics](https://github.com/jsejcksn/exercise-metrics)
 Visualize cardio data to track progress
 
-## [Beat Sequencer in HTML5](http://pattern86.com/apps/sequencer-in-html5/)
+## [Beat Sequencer in HTML5](https://github.com/jsejcksn/beat-sequencer-html5/)
 A drum machine made in the early days of HTML5
